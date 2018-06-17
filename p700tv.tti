@@ -1,0 +1,24 @@
+DE,TV Schedules by Ant Minn Ko
+DS,inserter
+SP,J:\peter\teletext pages\p700tv.tti
+CT,8,T
+PN,70000
+SC,0000
+PS,8000
+RE,0
+OL,0,                                        
+OL,4,        FANowBOnCTVDAsEOfFToday!        
+OL,7,               GMAINSTREAM              
+OL,8,      ABBC One             G701         
+OL,9,      BBBC Two             G702         
+OL,10,      FITV                 G703         
+OL,11,      DChannel 4           G704         
+OL,12,      EChannel 5           G705         
+OL,14,               ITV REGIONS              
+OL,15,      CAnglia  G7031  CMeridianG7038    
+OL,16,      CBorder  G7032  CScottishG7039    
+OL,17,      CCentral G7033  CTyne T. G7131    
+OL,18,      CGranada G7034  CUlster  G7132    
+OL,19,      CGrampianG7035  CW. C.   G7133    
+OL,20,      CHarlech G7036  CYorks.  G7134    
+OL,21,      CLondon  G7037  CCTV     G7135    
